@@ -7,7 +7,7 @@
 3. 贪吃蛇
 
 
-English version!
+[English version](https://github.com/Kexin-Tang/Game-Machine/blob/master/README_EN.md)
 
 ---
 # 文件简介
